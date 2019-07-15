@@ -1,0 +1,12 @@
+Based on the videos and the reading material, what are the ten main components of a report that would be delivered at the end of a data science project? 
+
+Cover Letter: It should be comprised of  title of project, name of authors, their affiliations and contact details
+Table of Contents: It Should contain Headings. List of Figures and Tables
+Abstract: It is briefing of our project
+Introduction: It is review of available information of problem
+Literature Review: Contain research questions and hypothesis
+Methodology: We introduce research methods and data sources 
+Results: we present empirical findings in this section
+Discussions: We write our problems and lack of knowledge before the experiment and what we gained after the experiment
+Conclusions: We write our findings in this section
+References and Acknowledgements:this is housekeeping section,
